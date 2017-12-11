@@ -1,0 +1,27 @@
+body{
+	background: #7ABDEA;
+}
+#magazine{
+	display: block;
+	margin: auto;
+	width:1152px;
+	height:752px;
+	overflow: hidden;
+}
+#magazine .turn-page{
+	background-color:#ccc;
+	background-size:100% 100%;
+}
+
+#welcome {
+	background: white;
+	padding: 20px;
+	border-radius: 20px;
+	border: 1px solid;
+    box-shadow: 5px 10px;
+	position: absolute;
+	margin-left: 18vw;
+	margin-top: 40vh;
+	text-align: center;
+	font-family: sans-serif;
+}
