@@ -24,7 +24,7 @@ $(window).bind('keydown', function(e){
 });
 
 function setImages() {
-	const IMAGE_FOLDER_NAME = 'DESMA10';
+	const IMAGE_FOLDER_NAME = '../DESMA10';
 	const IMAGE_NAME = '12102017-DESMA-Final-New';
 	const IMAGE_TYPE = '.png'
 	const NUM_IMAGES = 31;
